@@ -74,6 +74,7 @@ const SignIn = () => {
       <Grid container>
         <Grid item xs={1} sm={1} md={1} lg={3} xl={2}></Grid>
         <Grid item xs={10} sm={10} md={10} lg={5} xl={8}>
+          <Typography>This is for test</Typography>
           <Typography
             variant="h4"
             color="primary"
